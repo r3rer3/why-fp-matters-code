@@ -1,11 +1,11 @@
+{-# HLINT ignore "Use zipWith" #-}
+{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
 {-# OPTIONS_GHC -Wno-missing-signatures #-}
 {-# HLINT ignore "Use and" #-}
 {-# OPTIONS_GHC -Wno-name-shadowing #-}
 {-# HLINT ignore "Use foldr" #-}
 {-# OPTIONS_GHC -Wno-type-defaults #-}
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
-
-{-# HLINT ignore "Use zipWith" #-}
 
 module Main where
 
